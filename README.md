@@ -1,1 +1,2 @@
 # Dog_Breeds_Classification_ResNet50
+This project aimed to classify dog breeds using a ResNet50 model on the Stanford Dogs dataset. Through the implementation of data augmentation techniques and fine-tuning, I achieved a 77.98% validation accuracy and 77.13% training accuracy. The solution utilized hyperparameter optimization, early stopping, and effective model adjustments to reduce loss and enhance performance. The impact was a robust classification model capable of reliably identifying dog breeds in real-world scenarios.
